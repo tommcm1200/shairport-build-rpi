@@ -33,3 +33,6 @@ make
 make install
 systemctl enable shairport-sync
 systemctl start shairport-sync
+
+#reboot now
+reboot now
